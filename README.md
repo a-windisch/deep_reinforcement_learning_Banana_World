@@ -26,11 +26,13 @@ For every blue banana collected, the Agent receives a reward of -1.
 The training of the Agent is over, once it manages to collect an average reward of +13 over 100 consecutive episodes (the task is formulated in an episodic fashion).
 
 #### The untrained Agent
-Here is an animation of the untrained Agent who doesn"t have a clue as of what to do in this world. The actions are chosen uniformly random, hence the random-walk like behavior.
+Here is an animation of the untrained Agent who doesn"t have a clue as of what to do in this world. The actions are chosen uniformly random, hence the random-walk like behavior.   
+
 ![The untrained Agent](random.gif)
 
 #### The trained Agent
-After siccessful training, the Agent's actions are not erratic and random anymore. The Agent tries to collect as many yellow bananas as possible, as shown in the animation.
+After successful training, the Agent's actions are not erratic and random anymore. The Agent tries to collect as many yellow bananas as possible, as shown in the animation.   
+
 ![The trained Agent](trained.gif)
 
 ### 1. Files in this repository
